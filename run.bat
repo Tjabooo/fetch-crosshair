@@ -1,5 +1,5 @@
 @echo off
 
-cd "C:\Users\tjabo\workspace\Python\misc\fetch_crosshair"
+cd "<path>"
 
-"C:\Users\tjabo\workspace\Python\misc\fetch_crosshair\Quiet.exe" python3 main.py
+"<path to Quiet.exe>" python3 main.py
